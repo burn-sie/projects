@@ -1,0 +1,35 @@
+div.main {
+    align-content:center;
+    min-height: 1200px;
+    max-width: 900px;
+    margin:  auto;
+    border: 3px solid black;
+    box-shadow: 5px 5px 10px gray;
+}
+
+header.main {
+    text-align: center;
+    text-shadow: 2px 2px gray;
+}
+
+.aside {
+    text-align:right;
+}
+
+footer {
+    max-width: 900px;
+    margin: auto;
+    align-content: center;
+    text-shadow: 1px 2px gray;
+    text-align: center;
+    vertical-align: initial;
+    font-size: 23px;
+    border: 3px solid black;
+    box-shadow: 5px 5px 10px gray;
+}
+
+#coding {
+    color: brown;
+    border: 2px solid black;
+    max-width: 50%;
+}
